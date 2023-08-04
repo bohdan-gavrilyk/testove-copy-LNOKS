@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.container {
+  margin: 0 auto;
+  padding: 30px;
+}
+.wrapper{
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding-bottom: 30px;
+}
+
+button {
+  display: block;
+  width: 360px;
+  line-height: 64px;
+  font-size: 20px;
+  background-color: rgb(226, 45, 45);
+  margin: 0 auto;
+  color:#fff;
+}
+input {
+  display: block;
+  margin: 0 auto;
+  font-size: 20px;
+  line-height: 120%;
+  padding: 15px;
+}
