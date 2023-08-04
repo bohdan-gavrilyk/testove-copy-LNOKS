@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
+> Here is [the working example](https://bohdan-gavrilyk.github.io/testove-copy-LNOKS/)
 
-To use this template click `Use this template`
+Article list App
 
-### Available Scripts
+Prerequisites
+Before you can use the Recipe Beers app, ensure that you have the following installed:
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Node.js 14.16.1
+Package manager (npm)
